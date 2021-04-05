@@ -1,0 +1,18 @@
+{
+  "name": "ptz-edge-js-quickstart",
+  "version": "1.0.0",
+  "description": "ptz-edge-js-quickstart",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron --core ."
+  },
+  "author": "joraclista",
+  "license": "ISC",
+  "dependencies": {
+    "@joraclista/ptz-edge-js": "^1.0.3"
+  },
+  "devDependencies": {
+    "electron": "^11.4.2"
+  }
+}
