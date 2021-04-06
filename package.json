@@ -10,7 +10,7 @@
   "author": "joraclista",
   "license": "ISC",
   "dependencies": {
-    "@joraclista/ptz-edge-js": "^1.0.3"
+    "@joraclista/ptz-edge-js": "^1.0.4"
   },
   "devDependencies": {
     "electron": "^11.4.2"
